@@ -21,7 +21,7 @@ Simplifying the e-commerce checkout funnel by reducing the number of steps will 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white")
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white"/>
@@ -117,7 +117,7 @@ The streamlined funnel increases conversions by **5.66 percentage points**, vali
 
 ## ✏️ Portfolio Summary
 
-> *In this end-to-end A/B testing project, I designed a simulated checkout funnel variant and tested its performance against a control group. Using proportions z-test and chi-square segmentation, I found a 5.66% uplift in conversion. My analysis demonstrates business-focused experimentation, behavioral segmentation, and strong statistical grounding.*
+> In this end-to-end A/B testing project, I designed a simulated checkout funnel variant and tested its performance against a control group. Using proportions z-test and chi-square segmentation, I found a 5.66% uplift in conversion. My analysis demonstrates business-focused experimentation, behavioral segmentation, and strong statistical grounding.
 
 ---
 
@@ -132,6 +132,21 @@ The streamlined funnel increases conversions by **5.66 percentage points**, vali
 
 ---
 
-## 📌 Author & Date
+## 📜 License & Usage
 
-**Prepared by Ramya Vijayalayan on 14 Jun 2025**
+This project is licensed under the **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License**.
+
+> 🔒 Redistribution, reproduction, or code reuse without **explicit credit** is prohibited. Please respect the creative intent and ownership.
+
+View full terms in [LICENSE.md](./LICENSE.md) or [on Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+© Ramya Vijayalayan, 2025
+
+---
+## 📬 Author & Contact Info
+
+For project insights or review requests:
+
+**Prepared by Ramya Vijayalayan on 14 Jun 2025**  
+📧 [vrmya2510@gmail.com]  
+🔗 [LinkedIn Profile](https://linkedin.com/in/ramya-vijayalayan-9a51b2289)

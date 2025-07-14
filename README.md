@@ -4,18 +4,20 @@
 
 Simplifying the e-commerce checkout funnel by reducing the number of steps will increase user conversion rate by **5% or more**.
 
----
-
-## ✏️ Project Summary
-
-In this end-to-end A/B testing project, I designed a simulated, streamlined checkout funnel variant and tested its performance against a control group. Using Proportions Z-test and Chi-square segmentation, I found a **5.66% uplift** in conversion. My analysis demonstrates business-focused experimentation, behavioral segmentation, and strong statistical grounding.
->
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Library-NumPy-blue?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-green?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Library-Seaborn-43B02A)
 ![SciPy](https://img.shields.io/badge/Library-SciPy-yellow?logo=scipy&logoColor=white)
+
+---
+
+## ✏️ Project Summary
+
+In this end-to-end A/B testing project, I designed a simulated, streamlined checkout funnel variant and tested its performance against a control group. Using Proportions Z-test and Chi-square segmentation, I found a **5.66% uplift** in conversion. My analysis demonstrates business-focused experimentation, behavioral segmentation, and strong statistical grounding.
+>
+
 ---
 ## 🧱 Experimental Design
 

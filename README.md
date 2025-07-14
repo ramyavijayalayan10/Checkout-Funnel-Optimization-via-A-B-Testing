@@ -67,6 +67,12 @@ Z-statistic ≈ 67.09
 P-value ≈ 0.0000
 ```
 ---
+## 📐 Confidence Interval
+
+```python
+95% Confidence Interval for the Uplift is: [5.50%, 5.83%]
+```
+---
 
 ## ✅ Conclusion
 

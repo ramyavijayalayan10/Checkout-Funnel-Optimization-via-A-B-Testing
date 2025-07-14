@@ -46,9 +46,9 @@ Simplifying the e-commerce checkout funnel by reducing the number of steps will 
 ## 📈 Visualizations
 
 ### Plots 
-- [Funnel Comparison: Control vs Variant](/plot-results/Funnel Comparison Chart.png)  
-- [Conversion Rates Across Funnel Groups](/plot-results/Conversion Rate Comparison Chart.png)  
-- [Segmentation by Gender & Device](/plot-results/Segmentation Analysis by Gender and Device.png")  
+- [Funnel Comparison: Control vs Variant](./plot-results/Funnel Comparison Chart.png)  
+- [Conversion Rates Across Funnel Groups](./plot-results/Conversion Rate Comparison Chart.png)  
+- [Segmentation by Gender & Device](./plot-results/Segmentation Analysis by Gender and Device.png")  
 
 ---
 

@@ -5,11 +5,11 @@
 Simplifying the e-commerce checkout funnel by reducing the number of steps will increase user conversion rate by **5% or more**.
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Library-Pandas-orange?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Library-NumPy-blue?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-20232A?logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-green?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Library-Seaborn-43B02A)
-![SciPy](https://img.shields.io/badge/Library-SciPy-8CAAE6?logo=scipy&logoColor=yellow)
+![SciPy](https://img.shields.io/badge/Library-SciPy-yellow?logo=scipy&logoColor=white)
 
 ---
 

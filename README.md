@@ -41,3 +41,33 @@ Simplifying the e-commerce checkout funnel by reducing the number of steps will 
 - Final conversion defined as:  
   ```python
   ab_data_df['converted'] = ab_data_df['payment_confirmation']
+  ```
+---
+## 📈 Visualizations
+
+**Saved Images (link if hosted):**
+- `funnel_comparison.png`
+- `conversion_rate_chart.png`
+- `segmentation_analysis.png`
+
+### 📌 Highlights
+- Funnel Comparison: Control vs Variant  
+- Conversion Rates Across Funnel Groups  
+- Segmentation by Gender & Device  
+
+---
+
+## 📊 Key Performance Metrics
+
+- 🔄 **Conversion Rate - Control Group**: 0.50%  
+- 🚀 **Conversion Rate - Variant Group**: 6.16%  
+- 🎯 **Uplift from Variant**: +5.66 percentage points  
+
+---
+
+## 📐 Proportions Z-Test
+
+```python
+Z-statistic ≈ 67.09  
+P-value ≈ 0.0000
+```

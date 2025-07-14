@@ -10,6 +10,7 @@ Simplifying the e-commerce checkout funnel by reducing the number of steps will 
 ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-green?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Library-Seaborn-43B02A)
 ![SciPy](https://img.shields.io/badge/Library-SciPy-yellow?logo=scipy&logoColor=white)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 

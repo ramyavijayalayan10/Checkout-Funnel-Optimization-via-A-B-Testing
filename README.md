@@ -4,6 +4,13 @@
 
 Simplifying the e-commerce checkout funnel by reducing the number of steps will increase user conversion rate by **5% or more**.
 
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Library-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-20232A?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Library-Seaborn-43B02A)
+![SciPy](https://img.shields.io/badge/Library-SciPy-8CAAE6?logo=scipy&logoColor=white)
+
 ---
 
 ## 🧱 Experimental Design
@@ -15,19 +22,6 @@ Simplifying the e-commerce checkout funnel by reducing the number of steps will 
 
 - **Streamlined Search**: Fewer filters, smarter suggestions, faster browsing
 - **Unified Cart**: Pre-saved personal details, coupon fields, and billing info to reduce friction
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB)
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-</p>
 
 ---
 

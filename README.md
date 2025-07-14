@@ -118,14 +118,14 @@ The streamlined funnel increases conversions by **5.66 percentage points**, vali
 
 ---
 
-## 📂 File Guide
+## 📂 Folder Structure
 
 | File / Folder             | Description                                      |
 |---------------------------|--------------------------------------------------|
-| `notebooks/analysis.ipynb` | Main workflow with code, analysis and visuals     |
-| `data/`                   | Cleaned data files                                |
-| `images/`                 | Charts and plots                                  |
-| `README.md`               | Project summary                                   |
+| `notebooks/analysis.ipynb`| Main workflow with code, analysis and visuals    |
+| `plot-results/`           | Charts and plots                                 |
+| `README.md`               | Project summary                                      |
+| `LICENSE.md`               | License info                                   |
 
 ---
 

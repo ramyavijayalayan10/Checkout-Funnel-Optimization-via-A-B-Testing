@@ -71,3 +71,67 @@ Simplifying the e-commerce checkout funnel by reducing the number of steps will 
 Z-statistic ≈ 67.09  
 P-value ≈ 0.0000
 ```
+---
+
+## ✅ Conclusion
+
+Statistically significant improvement.  
+The streamlined funnel increases conversions by **5.66 percentage points**, validating the hypothesis.
+
+---
+
+## 🧠 Behavioral Segmentation via Chi-Square Tests
+
+### Gender vs. Conversion
+
+| Gender | Conversion Rate |
+|--------|------------------|
+| Female | 3.45%            |
+| Male   | 3.21%            |
+
+📊 **Chi-square = 7.8393**  
+🧪 **p-value = 0.0051** → **Significant difference**
+
+---
+
+### Device vs. Conversion
+
+| Device  | Conversion Rate |
+|---------|------------------|
+| Mobile  | 5.14%            |
+| Desktop | 2.42%            |
+
+📊 **Chi-square = 922.2552**  
+🧪 **p-value ≈ 0.0000** → **Highly significant difference**
+
+---
+
+## 🏁 Final Takeaways
+
+- ✅ Hypothesis confirmed — simplified funnel yields **+5.67% conversion gain**
+- 📱 Mobile-first design crucial: Mobile converts **>2×** better than desktop
+- 👩 Gender shows subtle conversion differences
+- 🎯 Streamlining steps leads to tangible business impact
+
+---
+
+## ✏️ Portfolio Summary
+
+> *In this end-to-end A/B testing project, I designed a simulated checkout funnel variant and tested its performance against a control group. Using proportions z-test and chi-square segmentation, I found a 5.66% uplift in conversion. My analysis demonstrates business-focused experimentation, behavioral segmentation, and strong statistical grounding.*
+
+---
+
+## 📂 File Guide
+
+| File / Folder             | Description                                      |
+|---------------------------|--------------------------------------------------|
+| `notebooks/analysis.ipynb` | Main workflow with code, analysis and visuals     |
+| `data/`                   | Cleaned data files                                |
+| `images/`                 | Charts and plots                                  |
+| `README.md`               | Project summary                                   |
+
+---
+
+## 📌 Author & Date
+
+**Prepared by Ramya Vijayalayan on 14 Jun 2025**

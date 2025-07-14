@@ -13,6 +13,12 @@ Simplifying the e-commerce checkout funnel by reducing the number of steps will 
 
 ---
 
+## ✏️ Project Summary
+
+> In this end-to-end A/B testing project, I designed a simulated checkout funnel variant and tested its performance against a control group. Using proportions z-test and chi-square segmentation, I found a 5.66% uplift in conversion. My analysis demonstrates business-focused experimentation, behavioral segmentation, and strong statistical grounding.
+>
+
+---
 ## 🧱 Experimental Design
 
 | Group     | Funnel Structure                                      |
@@ -107,11 +113,7 @@ The streamlined funnel increases conversions by **5.66 percentage points**, vali
 - 👩 Gender shows subtle conversion differences
 - 🎯 Streamlining steps leads to tangible business impact
 
----
 
-## ✏️ Portfolio Summary
-
-> In this end-to-end A/B testing project, I designed a simulated checkout funnel variant and tested its performance against a control group. Using proportions z-test and chi-square segmentation, I found a 5.66% uplift in conversion. My analysis demonstrates business-focused experimentation, behavioral segmentation, and strong statistical grounding.
 
 ---
 

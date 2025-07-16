@@ -50,7 +50,7 @@ In this end-to-end A/B testing project, I designed a simulated, streamlined chec
 - [Funnel Comparison: Control vs Variant](./plot-results/Funnel%20Comparison%20Chart.png)  
 - [Conversion Rates Across Funnel Groups](./plot-results/Conversion%20Rate%20Comparison%20Chart.png)  
 - [Segmentation by Gender & Device](./plot-results/Segmentation%20Analysis%20by%20Gender%20and%20Device.png")  
-
+> For python scripts, refer to the google drive link in the resume
 ---
 
 ## 📊 Key Performance Metrics

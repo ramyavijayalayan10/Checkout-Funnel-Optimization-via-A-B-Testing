@@ -134,7 +134,7 @@ The streamlined funnel increases conversions by **5.66 percentage points**, vali
 
 This project is licensed under the **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License**.
 
-> 🔒 Redistribution, reproduction, or code reuse without **explicit credit** is prohibited. Please respect the creative intent and ownership.
+> ⚠️ This repository is for demonstration purposes only. No reuse, modification, or redistribution is permitted without **explicit permission**.
 
 View full terms in [LICENSE.md](./LICENSE.md) or [on Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
